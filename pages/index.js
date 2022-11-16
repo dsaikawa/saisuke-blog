@@ -1,5 +1,4 @@
 // pages/index.js
-import Link from "next/link";
 import { client } from "../libs/client";
 import { Navbar } from "../components/layouts/Navbar";
 import { Card } from "../components/layouts/Card";
