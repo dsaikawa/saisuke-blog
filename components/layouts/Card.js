@@ -10,7 +10,7 @@ export const Card = (blog) => {
 
   return (
     <div
-      className="card-hover border border-3 border-dark rounded-3 container mt-3 mb-3 shadow"
+      className="card-hover border border-3 border-dark rounded-3 container mb-3 shadow"
       style={divLinkStyle}
     >
       <div className="row justify-content-center">
